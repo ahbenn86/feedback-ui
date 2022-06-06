@@ -1,5 +1,5 @@
-# Billzer
-### An app for expense and bill tracking.  
+# Feedback UI
+### An interface design for feedback. 
 <br/>
 
 ![Insert Image Link Here]()
@@ -14,5 +14,4 @@
 * HTML
 * CSS
 * Javascript
-* Node
-* React (JSX)
+
